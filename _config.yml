@@ -6,9 +6,9 @@ color:
   saturation: 0.8878550408408046
   rhythmicContrast: 0.1580403831321746
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
 name: shiatsu
